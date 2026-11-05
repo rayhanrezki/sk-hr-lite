@@ -10,3 +10,4 @@ function Skeleton({ className, ...props }) {
 }
 
 export { Skeleton }
+

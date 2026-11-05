@@ -8,3 +8,4 @@ export async function getDashboardDataApi() {
   }
   return response.json()
 }
+

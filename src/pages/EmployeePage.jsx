@@ -19,3 +19,4 @@ export const employeeRoutes = [
 ]
 
 export default employeeRoutes
+

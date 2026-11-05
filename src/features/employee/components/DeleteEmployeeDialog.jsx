@@ -64,3 +64,4 @@ export function DeleteEmployeeDialog({ employee, isOpen, onOpenChange }) {
 }
 
 export default DeleteEmployeeDialog
+

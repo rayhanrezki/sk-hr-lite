@@ -256,3 +256,4 @@ export function DashboardModule() {
 }
 
 export default DashboardModule
+
